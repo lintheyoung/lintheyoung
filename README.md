@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lintheyoung
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++ and DL
-- 📫 How to reach me with my website!
+- 👀 I’m proficient in solution integration, engineering deployment, and implementation.
 
 <!---
 lintheyoung/lintheyoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
